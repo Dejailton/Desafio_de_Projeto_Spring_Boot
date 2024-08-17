@@ -2,6 +2,7 @@
 Repositório criado para fins acadêmicos.
 
 # Linguagem e tecnologias utilizadas:
+
  -Java 17
 - Spring Boot, versão 3.3.2.
 - Spring Data JPA
